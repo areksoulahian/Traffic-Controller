@@ -5,5 +5,5 @@
 ## IDE: Energia
 
 
+![Schematic ](https://github.com/user-attachments/assets/63970ac7-81ca-41d1-aa53-5b15d8f58461)
 
-![Schematic ](https://github.com/user-attachments/assets/401c6b8c-40dd-4467-be3b-ec1108ee4454)
